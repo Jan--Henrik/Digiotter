@@ -1,7 +1,10 @@
 # Digiotter
 
 PB1 and PB11 - Input
+
 PB0 and PC13 - Output
+
+-----------------
 
 lost the pinout, meh
 
